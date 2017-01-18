@@ -20,7 +20,7 @@ This application is made to show basic information of any student in Lovely Prof
 * Size: 1.74 MB (1,831,881 Bytes)
 * Permissions Required: Internet Access
 
-## Downloads
+## Downloads 
 
 Check Release link above.
 
