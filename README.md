@@ -23,5 +23,3 @@ This application is made to show basic information of any student in Lovely Prof
 ## Downloads 
 
 Check Release link above.
-
-## Screenshots
