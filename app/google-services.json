@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "35878708294",
+    "project_id": "mini-ums"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35878708294:android:81cbfdbfc7770d35",
+        "android_client_info": {
+          "package_name": "its.arun.miniums"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4L0KnHT9eJq7_nNsBbEkg2O2WZzmF60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-90596438-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
