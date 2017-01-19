@@ -17,8 +17,8 @@ public class MainActivity extends ActionBarActivity {
     private Tracker mTracker;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_main);
             myWebView = (WebView) findViewById(R.id.webView);
             WebSettings webSettings = myWebView.getSettings();
             webSettings.setJavaScriptEnabled(true);
