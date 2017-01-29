@@ -22,7 +22,13 @@ public class MainActivity extends ActionBarActivity {
             myWebView = (WebView) findViewById(R.id.webView);
             WebSettings webSettings = myWebView.getSettings();
             webSettings.setJavaScriptEnabled(true);
-            myWebView.loadUrl("https://its-arun.github.io/Mini-UMS/");
+            webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
+            if(android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.JELLY_BEAN) {
+            webSettings.setAllowFileAccessFromFileURLs(true);
+            webSettings.setAllowUniversalAccessFromFileURLs(true);
+             }
+           // myWebView.loadUrl("https://its-arun.github.io/Mini-UMS/");
+            myWebView.loadUrl("file:///android_asset/index.html");
             myWebView.setWebViewClient(new WebViewClient());
             //Analytics Integration
             // Obtain the shared Tracker instance.
