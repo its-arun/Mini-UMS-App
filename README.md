@@ -16,8 +16,8 @@ This application is made to show basic information of any student in Lovely Prof
 * Base API 10
 * Target SDK: Android 7
 * Type: Release
-* Version: 2.0
-* Size: 3.69 MB (3,874,816 bytes)
+* Version: 3.0
+* Size: 4.02 MB (4,216,163 bytes)
 * Permissions Required:
   * Internet Access (For fetching records)
   * ACCESS NETWORK STATE (For Google Analytics)
