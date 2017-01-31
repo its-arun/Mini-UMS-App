@@ -1,6 +1,10 @@
 # Mini UMS App
 
 <p align="center">
+  <h1>Seems like bug has been fixed by Lovely Infotech. This application will not be working anymore.</h1>
+</p>
+
+<p align="center">
   <img src="https://its-arun.github.io/Mini-UMS/img/ums_logo.png" alt="Sublime's custom image"/>
 </p>
 
